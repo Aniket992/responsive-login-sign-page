@@ -158,7 +158,7 @@ h3{
     text-align: center;
     cursor: pointer;
     width: fit-content;
-    color: blue;
+    color: rgb(180, 180, 245);
     text-decoration: underline;
 }
 
