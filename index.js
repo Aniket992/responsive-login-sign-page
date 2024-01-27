@@ -19,7 +19,6 @@ function validateForm() {
   var username = document.getElementById("username").value;
   var email = document.getElementById("email").value;
   var password = document.getElementById("password").value;
-  // Check if any of the fields is empty
   if (loginButton.textContent == "LOGIN") {
     if (username === "" || password === "") {
       alert("Please fill in all details before submitting.");
