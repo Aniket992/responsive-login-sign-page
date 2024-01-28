@@ -159,6 +159,10 @@ button:hover {
     text-align: center;
     padding: 0px;
   }
+  .email-id{
+    justify-content: center;
+    align-items: center;
+  }
   body {
     font-size: 14px;
   }
